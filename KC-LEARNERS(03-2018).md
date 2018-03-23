@@ -34,7 +34,7 @@
 - [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
 - [Liy, Anri (@Oceanblue713)](https://github.com/Oceanblue713/liftoff-assignments)
-- Miguel Luevano
+- [Luevano, Miguel (@mluevano83)] (https://github.com/mluevano83/liftoff-assignments)
 - Jeremy Maldonado
 - Andrew McGhie
 - [Mumaw, Derek (@dmumaw72)](https://github.com/dmumaw72/liftoff-assignments)
